@@ -56,8 +56,10 @@ Crie tres novos arquivos no explorador do Vs Code.
 <!DOCTYPE  html>
 <!--começo HTML-->
 <html>
-<!--Colar aqui as informações do site-->
+<!--Colar aqui as informações do site--> do campo a cidade colhendo oportunidades
+
 <body>
+agrofloresta e a importançia da polinização
 
 </body>
 </html>
